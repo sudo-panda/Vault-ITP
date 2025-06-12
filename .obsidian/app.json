@@ -1,0 +1,8 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Zettels",
+  "attachmentFolderPath": "./attachments",
+  "userIgnoreFilters": [
+    "Templates/"
+  ]
+}

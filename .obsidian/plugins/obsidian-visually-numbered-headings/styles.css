@@ -1,0 +1,31 @@
+.custom-heading-count {
+	opacity: 0.5;
+	--custom-width: 5.5rem;
+	margin: 0 0 0 calc(-1*var(--custom-width));
+	float: left;
+	text-align: right;
+	width: var(--custom-width);
+	padding-right: .3cm
+}
+
+.outline .tree-item-children {
+	counter-reset: multi-counters;
+}
+
+.outline .tree-item {
+	counter-increment: multi-counters;
+}
+
+.outline .tree-item-inner::before {
+	content: counters(multi-counters, ".") ". ";
+}
+
+/* Fix for vertical alignment of headings without children */
+
+.outline .tree-item-inner {
+	padding-left: var(--size-4-3);
+}
+
+.outline .tree-item-icon {
+	position: absolute;
+}
