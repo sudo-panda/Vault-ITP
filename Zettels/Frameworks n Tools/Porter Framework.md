@@ -2,4 +2,4 @@
 **Bargaining Power of Suppliers**$:=$ High conc. of suppl, uniq prods, high switching costs
 **Bargaining Power of Buyers**$:=$ Low conc. of buyers, high vol. of purchases, low switch costs
 **Threat of Subs. Products/Services**$:=$ More Substitutes = More Competitive Prices
-**Competitive Rivalry**$:=$ 
+**Competitive Rivalry**$:=$ No of competitors, similarity of prods., lvl of industry growth
