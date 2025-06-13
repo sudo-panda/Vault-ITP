@@ -16,4 +16,4 @@
 ## Sources of inspiration
 Include:
 - Vendor presentations
-- 
+- Reports from other companies, incl. from other 
