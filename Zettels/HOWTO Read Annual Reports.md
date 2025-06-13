@@ -2,3 +2,4 @@
 - Investors require it to keep investing
 - The reporting has large influence on how investors and analysts perceive the company, buy shares, and thus share price
 - Regulators require it for public companies, i.e. companies listed at an exchange
+- The info must be representa
