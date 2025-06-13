@@ -11,5 +11,5 @@
 - `Profit or Loss`:
 ### Balance Sheet
 - `Assets =     ` :
-- Liabilities $+$ :
-- Equity          :
+- `Liabilities +` :
+- `Equity        `:
