@@ -10,6 +10,6 @@
 - `Costs +       `: 
 - `Profit or Loss`:
 ### Balance Sheet
-- `Assets =     ` :
-- `Liabilities +` :
-- `Equity        `:
+- `Assets =     `:
+- `Liabilities +`:
+- `Equity       `:
