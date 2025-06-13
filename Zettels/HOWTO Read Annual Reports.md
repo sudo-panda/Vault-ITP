@@ -10,6 +10,6 @@
 - `Costs +       `: What the company has paid
 - `Profit or Loss`: What remains at the end
 ### Balance Sheet
-- `Assets =      `: It
-- `Liabilities + `:
+- `Assets =      `: Items of value the company owns
+- `Liabilities + `: Debt the company ei
 - `Equity        `:
