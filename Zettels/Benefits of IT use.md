@@ -1,3 +1,4 @@
+Concrete benefits are highly specific to indust
 ### Improved products / services
 - Easier to use, more adaptive products
 - More efficient, resource consumption reducing products
