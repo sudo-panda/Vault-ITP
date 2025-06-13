@@ -12,4 +12,4 @@
 ### Balance Sheet
 - `Assets =      `: Items of value the company owns
 - `Liabilities + `: Debt the company will have to pay
-- `Equity        `: How much 
+- `Equity        `: How much do the owners have net
