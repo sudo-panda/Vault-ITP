@@ -11,5 +11,5 @@
 - `Profit or Loss`: What remains at the end
 ### Balance Sheet
 - `Assets =      `: Items of value the company owns
-- `Liabilities + `: Debt the company ei
-- `Equity        `:
+- `Liabilities + `: Debt the company will have to pay
+- `Equity        `: How much 
