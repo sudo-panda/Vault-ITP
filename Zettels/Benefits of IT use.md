@@ -13,3 +13,4 @@
 - Shift from selling prods. to providing services
 - Highly configurable platforms challenging specialized products
 
+## Sources of inspiration 
