@@ -16,4 +16,6 @@
 ## Sources of inspiration
 Include:
 - Vendor presentations
-- Reports from other companies, incl. from other 
+- Reports from other companies, incl. from other industries
+- Presentations from researchers
+
