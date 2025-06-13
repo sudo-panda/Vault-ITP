@@ -7,9 +7,9 @@
 ## Financial View of a Company
 ### Income Statements
 - `Revenues =    `: What Customers Pay
-- `Costs +       `: 
-- `Profit or Loss`:
+- `Costs +       `: What the company has paid
+- `Profit or Loss`: What remains at the end
 ### Balance Sheet
-- `Assets =      `:
+- `Assets =      `: It
 - `Liabilities + `:
 - `Equity        `:
