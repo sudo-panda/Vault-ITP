@@ -4,5 +4,6 @@
   "attachmentFolderPath": "./attachments",
   "userIgnoreFilters": [
     "Templates/"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }
