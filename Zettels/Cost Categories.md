@@ -3,3 +3,5 @@
 - The services categories can be expected to grow with the adoption of more SaaS/PaaS
 - Licenses categories can be expected to grow with companies adopting more standard software, except when they use it in a SaaS-model
 
+What happens if Cloud?
+- Most cost categories with change with energy 
