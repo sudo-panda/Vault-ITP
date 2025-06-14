@@ -20,4 +20,5 @@
 - Handling user questions and issue reports
 - Taking corrective actions for issues
 - Administering user access rights
-- In
+- Informing users about planned or unplanned unavailabilities
+
