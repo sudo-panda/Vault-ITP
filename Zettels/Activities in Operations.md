@@ -18,4 +18,6 @@
 
 ### User Support / Helpdesk
 - Handling user questions and issue reports
-- Taking corrective actions for 
+- Taking corrective actions for issues
+- Administering user access rights
+- In
