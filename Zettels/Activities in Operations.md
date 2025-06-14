@@ -10,3 +10,5 @@
 - Identifying issues and outages
 - Toking corrective actions
 
+### Security Operations
+- 
