@@ -22,3 +22,8 @@
 - Administering user access rights
 - Informing users about planned or unplanned unavailabilities
 
+## What if Cloud?
+|                             | IaaS                                                                           | Paas                                                                           | SaaS                                               |
+| --------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | -------------------------------------------------- |
+| Infrastructure Provisioning | Reduced to choosing, configuring and administrating cloud components<br>$50\%$ | Reduced to choosing, configuring and administrating cloud components<br>$20\%$ | Eliminated except for enabling access<br><br>$5\%$ |
+|                             |                                                                                |                                                                                |                                                    |
