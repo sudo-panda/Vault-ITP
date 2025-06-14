@@ -1,0 +1,3 @@
+- Broad range of different cost categories
+- Main cost drivers are internal and external staff, followed by licenses, and services
+- 
