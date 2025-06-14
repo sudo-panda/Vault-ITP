@@ -7,4 +7,6 @@
 
 ### Systems Management / Monitoring
 - Monitoring running application and infrastructure software
-- Identifying issues 
+- Identifying issues and outages
+- Toking corrective actions
+
