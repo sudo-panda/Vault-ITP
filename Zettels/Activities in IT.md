@@ -5,5 +5,5 @@
 4. Test
 
 ### Ongoing Activities
-- Operations
+- [[Activities in Operations|Operations]]
 - Maintenance & Enhancements
