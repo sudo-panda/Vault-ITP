@@ -13,4 +13,4 @@
 ### Security Operations
 - IAM: Ensure only authorized users can access systems and data
 - Detect and act upon cyber incidents; e.g. intrusions malware or denial of service (DoS)
-- Monitor identi
+- Monitor identification of vulnerabilities in installed products, 
