@@ -12,4 +12,4 @@
 
 ### Security Operations
 - IAM: Ensure only authorized users can access systems and data
-- Detect and act upon c
+- Detect and act upon cyber incidents; e.g. intrusions malware or
