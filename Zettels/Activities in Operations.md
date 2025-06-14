@@ -11,4 +11,4 @@
 - Toking corrective actions
 
 ### Security Operations
-- IAM
+- IAM: Ensure only authorized users can
