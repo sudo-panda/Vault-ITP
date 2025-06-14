@@ -17,4 +17,5 @@
 - Data loss prevention
 
 ### User Support / Helpdesk
-- Handling user ques
+- Handling user questions and issue reports
+- Taking corrective actions for 
