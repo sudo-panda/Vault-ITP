@@ -1,3 +1,3 @@
 - Broad range of different cost categories
 - Main cost drivers are internal and external staff, followed by licenses, and services
-- 
+- The services categories can be expected to grow with the adoption of more SaaS/PaaS
