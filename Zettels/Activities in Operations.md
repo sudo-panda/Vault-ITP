@@ -14,4 +14,6 @@
 - IAM: Ensure only authorized users can access systems and data
 - Detect and act upon cyber incidents; e.g. intrusions malware or denial of service (DoS)
 - Monitor identification of vulnerabilities in installed products, trigger preventive measures
-- Dat
+- Data loss prevention
+
+User Support / Helpdesk
