@@ -5,4 +5,5 @@
 - Installing and configuring application software on the infrastructure
 - Distributing software to distributed devices 
 
-### Systems Management/
+### Systems Management / Monitoring
+- Monitoring running applicat
