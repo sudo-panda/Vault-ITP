@@ -7,3 +7,4 @@ What happens if Cloud?
 - Most cost categories with change with energy, hardware and infrastructure software license shrinking, and cloud services growing
 - No categories completely disappears as companies will always have some local infrastructure
 - Often the expectation is that less staff is required, may not be so as cloud maintainence may require staff
+
