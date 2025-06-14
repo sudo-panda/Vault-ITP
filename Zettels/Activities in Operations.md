@@ -6,4 +6,5 @@
 - Distributing software to distributed devices 
 
 ### Systems Management / Monitoring
-- Monitoring running applicat
+- Monitoring running application and infrastructure software
+- Identifying issues 
