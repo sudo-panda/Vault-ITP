@@ -3,4 +3,4 @@
 
 ### Software Deployment
 - Installing and configuring application software on the infrastructure
-- Distributing 
+- Distributing software to distributed dev
