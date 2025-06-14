@@ -11,4 +11,5 @@
 - Toking corrective actions
 
 ### Security Operations
-- IAM: Ensure only authorized users can
+- IAM: Ensure only authorized users can access systems and data
+- Detect and act upon c
