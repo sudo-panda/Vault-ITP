@@ -8,4 +8,13 @@
 	- Cases from other environments
 
 ### Prototype
-- Rapidly design and implement proto
+- Rapidly design and implement prototype
+- Validate feasibility
+
+### Minimum viable product
+- Create a usable first product
+- Iterate:
+	- Obtain user feedback
+	- Improve
+
+
