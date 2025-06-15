@@ -23,7 +23,7 @@
 - Informing users about planned or unplanned unavailabilities
 
 ## What if Cloud?
-|                             | IaaS                                                                           | Paas                                                                           | SaaS                                               |
-| --------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | -------------------------------------------------- |
-| Infrastructure Provisioning | Reduced to choosing, configuring and administrating cloud components<br>$50\%$ | Reduced to choosing, configuring and administrating cloud components<br>$20\%$ | Eliminated except for enabling access<br><br>$5\%$ |
-| Software Deployment         | Major reduction with automatic software deployment                             |                                                                                |                                                    |
+|                             | IaaS                                                                                                     | Paas                                                                                                     | SaaS                                                                         |
+| --------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| Infrastructure Provisioning | Reduced to choosing, configuring and administrating cloud components<br><div align="center">$50\%$</div> | Reduced to choosing, configuring and administrating cloud components<br><div align="center">$20\%$</div> | Eliminated except for enabling access<br><br><div align="center">$5\%$</div> |
+| Software Deployment         | Major reduction with automatic software deployment                                                       |                                                                                                          |                                                                              |
