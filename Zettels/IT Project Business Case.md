@@ -23,4 +23,7 @@
 Most reasons are at the interface of business and IT
 
 ### Components of a Business Case
-
+- **Benefit**
+	- All benefits obtained when using the product resulting from the project or investment
+	- Quantified and separated for every year in which it is planned to be used
+	- 
