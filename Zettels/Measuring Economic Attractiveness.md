@@ -1,1 +1,1 @@
-| Economic Attractiveness |
+| Metric | Formula | Advantages
