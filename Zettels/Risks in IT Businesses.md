@@ -13,4 +13,5 @@
 - Many iterations of data collection, model definition and ML may be needed to get results
 - Projects leveraging existing models have much lower risks
 
-##
+### Gartner on GenAI
+- Needs 
