@@ -1,3 +1,7 @@
+---
+tags:
+  - Benefits_Costs_and_Business_Cases
+---
 - Concrete benefits are highly specific to industry, field of application, and technology
 ### Improved products / services
 - Easier to use, more adaptive products
