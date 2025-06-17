@@ -9,3 +9,4 @@
 Operations is the largest cost block 
 Typically only half of software development capacity can be used for solution delivery
 
+### Lifecycle costs
