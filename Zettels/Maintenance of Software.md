@@ -11,3 +11,4 @@
 - $10\%$: Implementation of changes
 - $10\%$: Planning of changes
 
+Need 3-5 FTE per application or technology 
