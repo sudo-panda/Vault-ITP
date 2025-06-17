@@ -6,3 +6,8 @@
 | **Net Present Value (NPV)**<br><span style="color: #88FF88DD;">>0</span>             |            $\sum_{y=\text{years}} \frac{1}{(1+i)^y} \times \text{Net Benefit}_y$            | Captures many aspects of projects                                          | - Relatively complex to calculate and understand<br>- Used as such, favors large projects over small ones |
 | **Internal Rate of Return (IRR)**<br><span style="color: #88FF88DD;">>RoE</span>     |                                   $i$ solved for NPV = 0                                    | - Similar to NPV<br>- Result relative to project size avoiding bias of NPV | Complex to calculate and understand                                                                       |
 
+
+| Today                          | In a Year                       |
+| ------------------------------ | ------------------------------- |
+| CHF $1$                        | CHF $1 \times  (1+ \text{RoE})$ |
+| CHF $\frac{1}{1 + \text{RoE}}$ | CHF $1$                         |
