@@ -11,8 +11,6 @@
 - Time overrun on average $122\%$
 
 ##### Reasons for project failure
-
-|     |     |
 | --- | --- |
 |     |     |
 
