@@ -8,4 +8,8 @@
 ### AI Project Risks
 - Quality of the output may be insufficient for the business purpose
 	- Available data may not capture factors strongly influencing the output
-- Insufficient data, or quality of data not high enough
+	- Insufficient data, or quality of data not high enough
+	- Chosen model may not be powerful enough
+- Many iterations of data collection, model definition and ML may be needed to get results
+- Projects leveraging existing models have much lower risks
+
