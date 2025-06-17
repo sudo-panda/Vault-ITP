@@ -15,4 +15,5 @@
 
 ### Gartner on GenAI
 - Needs significant investment
-- Hard to measure business value 
+- Hard to measure business value from GenAI with measurable financial impact
+- 
