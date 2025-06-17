@@ -18,4 +18,5 @@
 	- Showing that something considered impossible or very hard can be done
 
 ### Ramification Post-Breach 
-- Post-breach recovery can take years and involve l
+- Post-breach recovery can take years and involve large parts of the organisation
+- Intangible 
