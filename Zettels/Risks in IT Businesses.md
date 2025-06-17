@@ -22,3 +22,7 @@
 ## Business Operational Risks
 - The impact of problems with software can be very large
 - Can lead to losses in multiple companies and litigation between them
+- Eg.:
+	- Crowdstrike
+	- UBS - Facebook IPO - NASDAQ
+	- 
