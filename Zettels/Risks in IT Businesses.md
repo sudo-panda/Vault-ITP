@@ -25,4 +25,4 @@
 - Eg.:
 	- Crowdstrike
 	- UBS - Facebook IPO - NASDAQ
-	- 
+	- Stuxnet
