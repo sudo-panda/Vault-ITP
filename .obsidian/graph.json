@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "path:\"Zettels/Frameworks n Tools\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10729215
+      }
     }
   ],
   "collapse-display": true,
