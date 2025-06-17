@@ -31,4 +31,4 @@ Most reasons are at the interface of business and IT
 	- **Project costs in business**: All costs incurred in the business for the project, e.g., project management, business analysis, user acceptance testing, training
 	- **Project costs in IT**: All costs incurred to realize the project in IT
 	- **Ongoing costs in business**: Some projects lead to additional business costs once in use, e.g., for staff using the product, or for advertising the new Services enabled by the project. Since all benefits are counted, also all cost need to be counted
-	- Ongoing 
+	- **Ongoing costs in IT**: Costs to maintain and 
