@@ -22,4 +22,5 @@
 | Insufficient planning           |  $8\%$ |
 Most reasons are at the interface of business and IT
 
+### Components of a Business Case
 
