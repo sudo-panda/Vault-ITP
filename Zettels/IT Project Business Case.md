@@ -14,4 +14,5 @@
 | Reason                  | % age  |
 | ----------------------- | ------ |
 | Incomplete requirements | $13\%$ |
+| Insufficient user invol | $12\%$ |
 
