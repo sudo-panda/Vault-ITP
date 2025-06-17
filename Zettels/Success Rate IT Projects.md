@@ -1,3 +1,7 @@
+---
+tags:
+  - Risks_and_Strategic_Flexibility
+---
 ### Out of 500 Projects
 
 | Failed $53\%$ | Partially Successful $31\%$ | Successful $16\%$ |

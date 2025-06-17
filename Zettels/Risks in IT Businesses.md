@@ -1,3 +1,7 @@
+---
+tags:
+  - Risks_and_Strategic_Flexibility
+---
 ## Categories
 ### [[Success Rate IT Projects|IT Project Risks]]
 - Project failure/cancellation.  

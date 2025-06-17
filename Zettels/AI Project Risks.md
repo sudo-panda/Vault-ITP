@@ -1,3 +1,7 @@
+---
+tags:
+  - Risks_and_Strategic_Flexibility
+---
 ## AI Project Risks
 - Quality of the output may be insufficient for the business purpose
 	- Available data may not capture factors strongly influencing the output
