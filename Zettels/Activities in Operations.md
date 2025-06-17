@@ -4,7 +4,6 @@
 ### Software Deployment
 - Installing and configuring application software on the infrastructure
 - Distributing software to distributed devices 
-
 ### Systems Management / Monitoring
 - Monitoring running application and infrastructure software
 - Identifying issues and outages
