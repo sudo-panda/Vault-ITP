@@ -1,1 +1,5 @@
 ### Avoiding Inhibitors for change
+| Key Inhibitors    | Good Practices                                                                                                                                                                                                                                                |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Vendor Dependency | - Understand the strategic relevance of what you buy<br>- Understand the strategic intent of suppliers of key components<br>- Aim for either partnerships or vendor independence in fields of strategic importance in which you cannot build on your own.<br> |
+|                   |                                                                                                                                                                                                                                                               |
