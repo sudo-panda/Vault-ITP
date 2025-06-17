@@ -1,1 +1,4 @@
-| Metric | Formula | Advantages
+
+| Metric | Formula | Advantages | Disadvantages |
+| ------ | ------- | ---------- | ------------- |
+|        |         |            |               |
