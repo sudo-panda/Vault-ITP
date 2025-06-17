@@ -22,4 +22,9 @@ tags:
 		- Loss of potential and or exiting clients
 		- Increase of insurance premium
 		- Devaluation of trade name
-		- Organisational perturbation following the departure of executives
+		- Organizational perturbation following the departure of executives
+
+### Measures
+- Training for working as a team when disaster strikes
+- Prepare policies, test playbooks and keep disciplines
+- Cyber events are subject to external scrutiny
