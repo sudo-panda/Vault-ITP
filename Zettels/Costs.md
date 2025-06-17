@@ -4,5 +4,5 @@ tags:
 ---
 ## [[Cost Categories]]
 ## Activities
-### [[Activities in IT]]
-### [[Activities in Operations]]
+- ### [[Activities in IT]]
+- ### [[Activities in Operations]]
