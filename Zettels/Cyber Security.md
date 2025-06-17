@@ -8,4 +8,7 @@
 	- Listening to a company internally (sound/video)
 	- Watching a company internally (photographs/video)
 - **Demanding ransom**:
-	- Threatening to 
+	- Threatening to disclose confidential information
+	- Threatening to disrupt a business
+- **Benefitting indirectly**:
+	- 
