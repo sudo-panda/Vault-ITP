@@ -28,4 +28,4 @@ Most reasons are at the interface of business and IT
 	- Quantified and separated for every year in which it is planned to be used
 	- Note that "cost reductions" are benefits
 - **Cost**
-	- **Project costs in busine
+	- **Project costs in business**: All costs incurred in the business for the pro
