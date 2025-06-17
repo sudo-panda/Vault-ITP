@@ -1,3 +1,7 @@
+---
+tags:
+  - Risks_and_Strategic_Flexibility
+---
 ### Potential Motives of a Hacker
 - **Stealing Valuable Information**
 	- Copying data files and databases
