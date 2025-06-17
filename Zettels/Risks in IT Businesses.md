@@ -7,6 +7,7 @@ tags:
 - Project failure/cancellation.  
 - Project budget and time overrun.  
 - Results not fulfilling project objectives.
+- #### [[AI Project Risks]]
 ### [[Business Operational Risks]]
 - Business loss, reputational damage, or financial damage due to outages. 
 - Damage due to system malfunction.
