@@ -34,4 +34,4 @@ Effective costs (Final cost) are underestimated by a factor of <mark style="back
 #### Corollary for IT Investments
 - The cost structure in IT is largely a reflection of past IT investment decisions, and very hard to change as long as you continue using respective applications.
 - If you decide to implement an application today, it is a given that you will have operations and maintenance costs when you use the application in the future, which are largely fixed
-- A solid rule-of-thumb for estimating expected maintenance cost is <mark style="background: #EBCF44A6;">10-15%</mark> of original investment costs annually
+- A solid rule-of-thumb for estimating expected maintenance cost is <mark style="background: #FFDD11A6;">10-15%</mark> of original investment costs annually
