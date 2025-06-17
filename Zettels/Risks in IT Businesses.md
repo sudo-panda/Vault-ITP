@@ -27,3 +27,4 @@
 	- UBS - Facebook IPO - NASDAQ
 	- Stuxnet: Planned but spread to many other devices
 	- Tools designed to keep secure can intrude on customers (Solarwinds, Kaseya)
+- Staying open during 
