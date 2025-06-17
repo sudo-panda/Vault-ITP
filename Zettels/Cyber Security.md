@@ -4,7 +4,6 @@ tags:
 - Attacks and incidents will happen, you can only prepare for them
 - Reduce the attack surface, especially challenge convenience
 - Think like a hacker
-
 ### [[Potential Motives of a Hacker]]
 
 ### Ramification Post-Breach 
@@ -20,5 +19,6 @@ tags:
 		- Costs of regulatory non-compliance
 		- Loss of IP
 		- Loss of potential and or exiting clients
-	- 
-	
+		- Increase of insurance premium
+		- Devaluation of trade name
+		- Organisational perturbation following the departure of executives
