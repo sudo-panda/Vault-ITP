@@ -37,3 +37,5 @@ Most reasons are at the interface of business and IT
 	- **Operational risks**: Specific additional risk in the business once the resulting application in life, incl. assessment how it will impact benefits and costs
 
 
+### Metrics
+- Economic attractiveness:
