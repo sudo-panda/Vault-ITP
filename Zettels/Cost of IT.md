@@ -4,4 +4,5 @@
 - To keep knowledge accessible, each staff member needs to regularly use it
 ### Split of IT costs
 - $22\%$: Solution Delivery
-- $18\%$: 
+- $18\%$: Maintenance & Enhancement
+- $60\
