@@ -27,4 +27,5 @@ Most reasons are at the interface of business and IT
 	- All benefits obtained when using the product resulting from the project or investment
 	- Quantified and separated for every year in which it is planned to be used
 	- Note that "cost reductions" are benefits
-- 
+- **Cost**
+	- **Project costs in busine
