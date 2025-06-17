@@ -5,4 +5,7 @@
 ### Split of IT costs
 - $22\%$: Solution Delivery
 - $18\%$: Maintenance & Enhancement
-- $60\%$: 
+- $60\%$: Operations
+Operations is the largest cost block 
+Typically only half of software development capacity can be used for solution delivery
+
