@@ -30,3 +30,4 @@ Effective costs (Final cost) are underestimated by a factor of <mark style="back
 |                                 | Security Operations                                         | - Vulnerability density<br>- Number of users                     | Expected fixed block and sublinear with business volume on top         |
 |                                 | User Support / Helpdesk                                     | - Quality of application<br>- Number of users                    | Expected slightly sublinear with number of users                       |
 | **Maintenance & Enchancements** | Software Development                                        | - Application complexity                                         | 10-15% of original development cost annually                           |
+
