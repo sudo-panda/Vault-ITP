@@ -12,3 +12,5 @@
 | CHF $1$                        | CHF $1 \times  (1+ \text{RoE})$ |
 | CHF $\frac{1}{1 + \text{RoE}}$ | CHF $1$                         |
 Investor : High Risk needs High RoE
+Investment is not just equity but also debt (loans at lower interest rate that RoE). So we use Weighted Avg. Cost of Capital:
+$$\text{WACC} =\frac{\text{Total debt} \times \text{Avg. interest on debt} + \text{total equity} \times \text{RoE}}{\text{Total debt} + \text{total equity}}$$
