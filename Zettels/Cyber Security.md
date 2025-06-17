@@ -11,4 +11,7 @@
 	- Threatening to disclose confidential information
 	- Threatening to disrupt a business
 - **Benefitting indirectly**:
-	- 
+	- Using confidential information for insider trading
+	- Disrupting a business to benefit from subsequent moves in stock, commodities or other markets
+	- Disrupting a business to sell competitors' products to customers
+- Mastering an intellectual challenge
