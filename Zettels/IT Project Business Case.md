@@ -11,7 +11,7 @@
 - Time overrun on average $122\%$
 
 ##### Reasons for project failure
-| Reason      | % age |
-| ----------- | ----- |
-| Incompleter |       |
+| Reason                  | % age  |
+| ----------------------- | ------ |
+| Incomplete requirements | $13\%$ |
 
