@@ -6,4 +6,6 @@
 [[Success Rate IT Projects]]
 
 ### AI Project Risks
-- Quality of the output may be in
+- Quality of the output may be insufficient for the business purpose
+	- Available data may not capture factors strongly influencing the output
+- Insufficient data, or quality of data not high enough
