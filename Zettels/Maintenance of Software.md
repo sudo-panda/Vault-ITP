@@ -16,3 +16,5 @@
 - A single staff member can cover multiple applications or technology within limits
 - To keep knowledge accessible, each staff member needs to regularly use it
 
+### Split of IT costs
+- 
