@@ -3,3 +3,4 @@
 | ------------- | ---------- | ----------- |
 | **Proactive** | Preventive | Perfective  |
 | **Reactive**  | Corrective | Adaptive    |
+
