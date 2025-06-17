@@ -38,7 +38,7 @@ Most reasons are at the interface of business and IT
 
 
 ### Metrics
-- [Economic attractiveness] vs Strategic Importance
+- [[Measuring E|Economic attractiveness]] vs Strategic Importance
 - Economic attractiveness vs Time to market
 - Economic attractiveness vs Risks
 
