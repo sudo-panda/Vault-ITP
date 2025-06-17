@@ -1,5 +1,5 @@
 
-| Metric                   | Formula | Advantages | Disadvantages |
-| ------------------------ | ------- | ---------- | ------------- |
-| **Benefit / cost-ratio** |         |            |               |
-|                          |         |            |               |
+| Metric                   | Formula      | Advantages | Disadvantages |
+| ------------------------ | ------------ | ---------- | ------------- |
+| **Benefit / cost-ratio** | $\frac{\sum} |            |               |
+|                          |              |            |               |
