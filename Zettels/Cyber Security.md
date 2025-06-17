@@ -20,4 +20,5 @@
 ### Ramification Post-Breach 
 - Post-breach recovery can take years and involve large parts of the organisation
 - Intangible damages account for over 40% of the total impact
-- When a company falls victim of a cyber attack, there are several obvious and visible 
+- When a company falls victim of a cyber attack, there are several obvious and visible impacts:
+	- Deterioration of public relations
