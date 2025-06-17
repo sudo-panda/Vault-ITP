@@ -14,4 +14,5 @@
 - Projects leveraging existing models have much lower risks
 
 ### Gartner on GenAI
-- Needs 
+- Needs significant investment
+- Many companies strugg
