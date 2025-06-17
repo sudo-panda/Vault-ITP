@@ -27,4 +27,4 @@ tags:
 ### Measures
 - Training for working as a team when disaster strikes
 - Prepare policies, test playbooks and keep disciplines
-- Cyber events are subject to external scrutiny
+- Cyber events are subject to external scrutiny. Document and preserevidence and
