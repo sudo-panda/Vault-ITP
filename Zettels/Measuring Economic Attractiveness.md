@@ -11,3 +11,4 @@
 | ------------------------------ | ------------------------------- |
 | CHF $1$                        | CHF $1 \times  (1+ \text{RoE})$ |
 | CHF $\frac{1}{1 + \text{RoE}}$ | CHF $1$                         |
+Investor : High Risk needs High RoE
