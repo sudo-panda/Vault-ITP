@@ -34,4 +34,4 @@ Most reasons are at the interface of business and IT
 	- **Ongoing costs in IT**: Costs to maintain and to operate the resulting application, since 
 - **Risks**
 	- **Project risks**: Risks that will endanger the project, incl. assessment of how it will impact benefits and costs described above
-	- **Operational risks**: Specific additional risk in the business once the resulting application in life, incl. a
+	- **Operational risks**: Specific additional risk in the business once the resulting application in life, incl. assessment how 
