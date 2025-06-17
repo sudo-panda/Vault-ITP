@@ -5,3 +5,5 @@
 ### IT Project Risks
 [[Success Rate IT Projects]]
 
+### AI Project Risks
+- Quality of the output may be in
