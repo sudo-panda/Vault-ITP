@@ -20,3 +20,4 @@
 ### Ramification Post-Breach 
 - Post-breach recovery can take years and involve large parts of the organisation
 - Intangible damages account for over 40% of the total impact
+
