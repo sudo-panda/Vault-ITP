@@ -19,3 +19,11 @@ Typically only half of software development capacity can be used for solution de
 | Total Cost        | 2.7             | 7.2        | 2.7   |
 Effective costs (Final cost) are underestimated by a factor of <mark style="background: #FF5582DD;">2.7</mark>
 
+
+
+### Cost Drivers for Activities
+|                   | Category                                                    | Key Drivers                                                      | Benchmark                                                              |
+| ----------------- | ----------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| **IT Operations** | Energy, Hardware, Infrastructure software licenses, telecom | - Resource consumption (CPU, memory, storage, network, database) | Expected sublinear with business volume for most business applications |
+|                   | Software Deployment                                         | - Defect Density<br>- Frequency of updates                       | Expected small fixed                                                   |
+|                   | Systems Management / Monitoring                             |                                                                  |                                                                        |
