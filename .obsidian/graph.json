@@ -13,6 +13,13 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "tag:#Benefits_Costs_and_Business_Cases  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
     }
   ],
   "collapse-display": true,
@@ -20,11 +27,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.440348307291667,
   "repelStrength": 8.71419270833333,
   "linkStrength": 0.615478515625,
   "linkDistance": 30,
-  "scale": 0.8287935516726154,
+  "scale": 1.154128657834989,
   "close": false
 }

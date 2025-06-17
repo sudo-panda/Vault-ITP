@@ -1,3 +1,7 @@
+---
+tags:
+  - Benefits_Costs_and_Business_Cases
+---
 ### Lifecycle costs
 |                   | Estimated costs | Final cost | Ratio |
 | ----------------- | --------------- | ---------- | ----- |
