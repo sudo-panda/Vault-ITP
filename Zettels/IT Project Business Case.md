@@ -15,5 +15,5 @@
 | ----------------------------- | ------ |
 | Incomplete requirements       | $13\%$ |
 | Insufficient user involvement | $12\%$ |
-| Inadequate reqsourc           |        |
+| Inadequate resources          | $      |
 
