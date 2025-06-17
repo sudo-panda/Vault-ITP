@@ -29,4 +29,4 @@ Most reasons are at the interface of business and IT
 	- Note that "cost reductions" are benefits
 - **Cost**
 	- **Project costs in business**: All costs incurred in the business for the project, e.g., project management, business analysis, user acceptance testing, training
-	- 
+	- Project costs in IT:
