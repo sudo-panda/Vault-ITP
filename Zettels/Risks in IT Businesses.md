@@ -15,4 +15,4 @@
 
 ### Gartner on GenAI
 - Needs significant investment
-- Many companies strugg
+- Many companies struggle to 
