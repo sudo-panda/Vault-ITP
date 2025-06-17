@@ -1,5 +1,6 @@
 ---
 tags:
+  - Risks
 ---
 - Attacks and incidents will happen, you can only prepare for them
 - Reduce the attack surface, especially challenge convenience
