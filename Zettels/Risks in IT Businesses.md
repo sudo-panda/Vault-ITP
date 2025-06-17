@@ -17,4 +17,4 @@
 - Needs significant investment
 - Hard to measure business value from GenAI with measurable financial impact
 - Early adopters: 15.8% revenue increase, 15.2% cost savings or 22.6% productivity improvement
-- More than 
+- More than 80% AI projects fail. [[]]
