@@ -28,4 +28,5 @@
 	- Stuxnet: Planned but spread to many other devices
 	- Tools designed to keep secure can intrude on customers (Solarwinds, Kaseya)
 - Staying open during problems builds brand image. Eg: Goldman Sachs
-- 
+
+[[Cyber Security]]
