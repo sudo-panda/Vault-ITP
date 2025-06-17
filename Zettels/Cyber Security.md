@@ -1,2 +1,11 @@
 - Attacks and incidents will happen, you can only prepare for them
-- Reduce the attack surface , especially challenge conve
+- Reduce the attack surface, especially challenge convenience
+- Think like a hacker
+### Potential Motives of a Hacker
+- **Stealing Valuable Information**
+	- Copying data files and databases
+	- Copying software
+	- Listening to a company internally (sound/video)
+	- Watching a company internally (photographs/video)
+- **Demanding ransom**:
+	- Threatening to 
