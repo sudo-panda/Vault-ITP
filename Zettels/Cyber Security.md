@@ -16,4 +16,3 @@
 	- Disrupting a business to sell competitors' products to customers
 - **Mastering an intellectual challenge**:
 	- Showing that something considered impossible or very hard can be done
-
