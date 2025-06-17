@@ -17,4 +17,4 @@ Typically only half of software development capacity can be used for solution de
 | Enhancement       | 0.4             | 1.2        |
 | Operations        | 0.7             | 3.8        |
 | Total Cost        | 2.7             | 7.2        |
-Effective costs (Final) 
+Effective costs (Final cost) are underestimated by a factor of 2.7
