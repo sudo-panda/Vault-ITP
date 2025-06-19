@@ -1,3 +1,7 @@
+---
+tags:
+  - IT_in_practice
+---
 ### Business Owner / Investor
 - RoE from an investment in this company
 - Risk?

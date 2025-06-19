@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#Risks_and_Strategic_Flexibility  ",
@@ -57,7 +57,7 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -67,6 +67,6 @@
   "repelStrength": 8.71419270833333,
   "linkStrength": 0.615478515625,
   "linkDistance": 30,
-  "scale": 1.6997844124096328,
+  "scale": 1.159246569286807,
   "close": false
 }
