@@ -1,3 +1,7 @@
+---
+tags:
+  - Technology_Lifecycle
+---
 ### Emulation
 
 ### Security considerations

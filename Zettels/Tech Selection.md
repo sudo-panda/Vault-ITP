@@ -1,3 +1,7 @@
+---
+tags:
+  - Technology_Selection
+---
 ## Considerations in IT for Tech Selection
 ### New developments in IT
 - Huge set of different technologies vendors products in just one field
