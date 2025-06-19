@@ -12,7 +12,19 @@ tags:
 
 ## Antitrust
 ### Essential Facilities Doctrine
-If you own a "facility essential to other competitors" you are required to provide reasonable use of that facility. 
+If you own a "facility essential to other competitors" you are required to provide reasonable use of that facility. The basic element of a legal claim are:
+1. control of the essential facility by a monopolist
+2. a competitor's inability to practically or reasonable duplicate the essential facility
+3. the denial of the use of the facility to a competitor
+4. the feasibility of providing the facility to competitors
+
+> You are allowed to build a monopoly and maintain it, but you are not allowed to use it hindering competition in connected markets
+
+### Almost Monopolists
+often happy to support small competitors
+- Microsoft supporting Apple in the 1990's
+- Google supporting Mozilla
+- HP not charging compatible toner and ink manufacturers for patent infringement
 
 ---
 ### #Questions 
