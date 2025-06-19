@@ -19,4 +19,9 @@
 - Academic
 	- Software developed as part of academic research released to public
 	- Maintenance and support dependent on software being adapted by other researchers and/or industry
-- 
+- Professional
+	- Software developed by provider in-house then released to the public
+	- Usually maintained well and support provided by 3rd parties
+- Sponsored
+	- Software developed by a professional sponsored organization, with the mandate/intent to release it as open-source software
+	- Well maintained, support provided by 3rd parties
