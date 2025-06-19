@@ -35,3 +35,6 @@
 ### Approaches to address legacy software 
 - Do not touch
 - Rewrite
+- Replace with package
+- Replatform
+- 
