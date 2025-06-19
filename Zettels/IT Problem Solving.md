@@ -1,4 +1,6 @@
-### Gettin
+### Getting a Good Decision
+- Assignment
+- Understand
 
 - I do not know anything about this:
 	- Ensure <mark style="background: #FADF63EE;">MECERE</mark>-ness
