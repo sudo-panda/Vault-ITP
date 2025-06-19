@@ -25,3 +25,6 @@
 	- IT Trends 202x
 	- Technology briefs
 	- Gartner Magic Quadrant
+
+### Corollaries
+- In every tech field there is a strong 
