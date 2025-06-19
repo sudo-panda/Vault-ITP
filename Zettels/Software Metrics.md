@@ -13,3 +13,9 @@
 	- . . . and it allows for statistical analysis
 
 ### Calculation
+Decomposition system into five functional classes:
+1. External inputs (EI), e.g., values passed from a user input mask
+2. External outputs (EO), e.g., a report
+3. Internal logical files (ILF), i.e., system states
+4. Inquires (EQ), e.g., a query to a database
+5. External interface files (EIF), e.g., a database
