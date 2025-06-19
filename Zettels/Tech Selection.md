@@ -20,7 +20,7 @@
 	- Multiple technologies and multiple suppliers
 	- New internal decision for each project which technology solution to use
 - Very complex trade-offs
-	- High uncertainty about evolution 
+	- High uncertainty about evolution of requirements and technology solutions
 ### Stability and Maturity
 ### Architectural fit
 ### Availability of skills
