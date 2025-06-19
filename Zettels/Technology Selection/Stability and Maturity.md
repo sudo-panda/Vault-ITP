@@ -29,3 +29,7 @@
 ### Corollaries
 - In every tech field there is a strong drive towards an oligopoly
 - Dominating products tend to be technically outdated
+
+### Tricking the system
+- Leveraging the company brand for overselling
+- Using the brand of a successful product to sell another product
