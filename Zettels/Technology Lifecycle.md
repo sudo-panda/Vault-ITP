@@ -14,4 +14,5 @@
 - Technical debt
 - Architectural obsolescence
 - Technical obsolescence
-	- New app
+	- New apps are generally developed using tech then considered mature
+	- 
