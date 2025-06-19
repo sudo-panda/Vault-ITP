@@ -16,7 +16,7 @@
 - Technical debt
 	- Nor bad practice but result of many sensible decisions
 	- The more technical debt an app has the more likely it will accumulate more
-	- Business-critical sytems - avoid risk - avoid major code changes - add tech debt
+	- Business-critical systems: avoid risk - avoid major code changes - add tech debt
 - Architectural obsolescence
 	- Evolution in business and tech makes chosen arch obsolete
 - Technical obsolescence
