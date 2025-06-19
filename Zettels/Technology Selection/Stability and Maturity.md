@@ -51,4 +51,4 @@
 - Customers being sued by 3rd party patent holders
 	- Nokia suing Daimler for violation of Nokia patents in networking components from non Daimler suppliers used in Daimler automobiles
 	- Banks being sued by patent troll for stock exchanges' alleged violation of patents related to FIX FAST message standard used in exchanges' price feeds
-	  
+
