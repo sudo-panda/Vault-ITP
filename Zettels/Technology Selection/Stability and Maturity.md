@@ -47,4 +47,5 @@
 - Using the brand of a successful product to sell another product
 
 ### Future trouble
-- Suppliers changing their business model from software provider to service provi
+- Suppliers changing their business model from software provider to service providers
+- Customers being sued by 3rd party patent holders
