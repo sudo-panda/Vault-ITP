@@ -20,5 +20,7 @@ Decomposition system into five functional classes:
 4. Inquires (EQ), e.g., a query to a database
 5. External interface files (EIF), e.g., a database
 
-For element it complexity is estimated, assigning it a number of function points and summing it all up to get the total
+For element it complexity is estimated, assigning it a number of function points and summing it all up to get the total.
+
+
 
