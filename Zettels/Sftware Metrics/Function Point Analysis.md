@@ -35,5 +35,10 @@ For element it complexity is estimated, assigning it a number of function points
 	- Built by very large teams over many years in several major releases
 	- Cost one billion or more CHF
 
+### Caveats
+- Doesn't measure but estimate software size and complexity
+- There are many weaknesses when you look at a single example, which also lead to inconsistencies
 
-
+Despite these weaknesses over a large number of samples, strongly statistically relevant results are found
+- Avoid combining data from different sources
+- When doing calculations, do them precisely not to accumulate errors, but be aware that the result has a relatively large error range
