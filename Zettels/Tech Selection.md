@@ -26,6 +26,12 @@
   More users $\mapsto$ More requirements $\mapsto$ More functionalities $\mapsto$ Growth into further areas of use $\mapsto$ More users
 - **Secondary Self - Reinforcing cycle of Platform growth:**
   More users $\mapsto$ Attractive as a platform to develop for . . . $\mapsto$ . . . many available skilled resources,  many available products $\mapsto$ More users
+#### IT Research Companies as amplifiers for self-reinforcing cycles: Example Gartner, inc.
+- Services
+	- CIO survers
+	- IT Trends 202x
+	- Technology briefs
+	- Gartner Magic Quadrant
 ## Architectural fit
 
 ## Availability of skills
