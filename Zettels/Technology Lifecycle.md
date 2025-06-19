@@ -44,6 +44,11 @@
 		- Project abortions often leave company in a worse situation than before the project
 - Replace with package
 - Replatform
+	- projects are narrowly defined to address technical obsolence
+	- moving the application onto a different tech platform leaving functionality, architecture and tech debt as is
+	- static code translators are used if possible, ehich have a bad reputation of generating hard to maintain code
+	- <mark style="background: #88FF88DD;">success rate high</mark>
+	- <mark style="background: #FF5582DD;">lil benefit to business</mark>
 - Refactor
 - Software mimicry
 
