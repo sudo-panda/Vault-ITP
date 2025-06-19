@@ -11,4 +11,4 @@
 ### Attractiveness/"sexiness" of technology
 
 
-## CASE 
+## CASE STUDY: Open-source software
