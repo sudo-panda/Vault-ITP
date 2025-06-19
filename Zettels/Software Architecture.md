@@ -29,5 +29,8 @@ Different Archs for different design aspects
 - If a guideline/standard does not serve an understandable need, it becomes a nuisance and will be ignored
 
 ### Good practice
-- Do arch design and standardization only for a few aspects, ehich serve a business need, but do them very well
-- 
+- Do arch design and standardization only for a few aspects, which serve a business need, but do them very well
+- Decide based on business needs which aspects need to be standardized, and at which level
+- Adopt a federated arch organization and governance
+
+## Modularization
