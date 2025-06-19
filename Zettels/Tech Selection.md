@@ -19,7 +19,8 @@
 	⊖
 	- Multiple technologies and multiple suppliers
 	- New internal decision for each project which technology solution to use
-- 
+- Very complex trade-offs
+	- 
 ### Stability and Maturity
 ### Architectural fit
 ### Availability of skills
