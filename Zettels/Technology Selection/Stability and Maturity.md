@@ -42,7 +42,7 @@
 		- Ability to very quickly scale organization
 	- **Growth into neighboring fields**
 
-
 ### Tricking the system
 - Leveraging the company brand for overselling
 - Using the brand of a successful product to sell another product
+
