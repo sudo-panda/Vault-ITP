@@ -43,4 +43,3 @@ Despite these weaknesses over a large number of samples, strongly statistically 
 - Avoid combining data from different sources
 - When doing calculations, do them precisely not to accumulate errors, but be aware that the result has a relatively large error range
 
-If 
