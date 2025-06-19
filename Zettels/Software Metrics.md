@@ -3,4 +3,5 @@
 ### [[Function Point Analysis]]
 
 ## Lines Of Code
-- Perceived productivity decreases with power 
+- Perceived productivity decreases with power of PL
+- LoC is a bad measurement to compare projects with different PLs
