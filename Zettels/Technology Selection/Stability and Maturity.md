@@ -49,3 +49,4 @@
 ### Future trouble
 - Suppliers changing their business model from software provider to service providers
 - Customers being sued by 3rd party patent holders
+	- Nokia being
