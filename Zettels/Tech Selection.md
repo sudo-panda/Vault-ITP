@@ -4,10 +4,13 @@
 	- Fast triage what to look into
 - Capabilities of a Technology
 	- One technology solution covering all/most requirements
-		➕ Only one technology and one supplier
-		➖ 
+		✚ 
+		- Only one technology and one supplier
+		
 		- More complex technology
-		-  
+		- Less fit with individual set of requirements
+		- Stronger dependence on supplier
+		
 - Stability and Maturity
 - Architectural fit
 - Availability of skills
