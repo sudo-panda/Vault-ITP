@@ -2,5 +2,6 @@
 - Google Trends
 - Analytics
 - Traffic thru Maps
-- Location through Android
-- 
+- *Location throughout the day thru Android*
+- *Who are the clients of a firm ABC*
+- *What may the xmas business of retailer XYZ be this year*
