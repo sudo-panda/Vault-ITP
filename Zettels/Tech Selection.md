@@ -28,7 +28,7 @@
 | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | One technology solution                                                                                           | Different, specific technology solutions                                                           |
 | ⊕ Less solutions and suppliers to manage<br>⊕ Simpler decision making internally and enforcement once established | ⊕ Solution more tailored to problem at hand<br>⊕ Less to learn<br>⊕ Less to coordinate with others |
-|                                                                                                                   |                                                                                                    |
+| ⊖ More difficult and controversial to choose initially<br>                                                        | ⊖ Only relevant in this field, little use if I move elsewhere                                      |
 
 ### Stability and Maturity
 ### Architectural fit
