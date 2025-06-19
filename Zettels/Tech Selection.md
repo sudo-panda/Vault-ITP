@@ -23,6 +23,12 @@
 	- High uncertainty about evolution of requirements and technology solutions
 	- Technology solutions often impact other technology areas
 
+##### IT managers vs. IT Staff
+| IT Management           | IT Staff                                 |
+| ----------------------- | ---------------------------------------- |
+| One technology solution | Different, specific technology solutions |
+|                         |                                          |
+
 ### Stability and Maturity
 ### Architectural fit
 ### Availability of skills
