@@ -13,6 +13,7 @@
 - Functional obsolescence
 - Technical debt
 - Architectural obsolescence
+	- Evolution in 
 - Technical obsolescence
 	- New apps are generally developed using tech then considered mature
 	- My the time the app is mature the underlying tech is already in decline
