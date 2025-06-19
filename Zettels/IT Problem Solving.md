@@ -1,6 +1,16 @@
 ### Getting a Good Decision
 - Assignment
-- Understand
+- Understanding of the field
+- Problem Statement
+- Methodology and Approach
+- Information gathering
+- Systematic factual analysis
+- Synthesis and Option definition
+- Systematic evaluation
+- Convincing ppt
+- Good decision
+
+
 
 - I do not know anything about this:
 	- Ensure <mark style="background: #FADF63EE;">MECERE</mark>-ness
