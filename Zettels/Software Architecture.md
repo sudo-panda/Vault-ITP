@@ -15,4 +15,5 @@ Different Archs for different design aspects
 ## [[Purpose, Pitfalls, Good Practice]]
 
 ## Modularization
+- The degree to which a system's components may be separated and recombined, often with the benefit of flexibility and variety in use.
 - 
