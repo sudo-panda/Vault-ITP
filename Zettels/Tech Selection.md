@@ -11,7 +11,10 @@
 	- Less fit with individual set of requirements
 	- Stronger dependence on supplier
 - **Sets of requirements from different business stakeholders**
-- Different, specific technology 
+- Different, specific technology solutions for each set of requirements
+	⊕
+	- Close fit with each individual set of requirements possible
+	- Each technology solution likely simpler and more 
 ### Stability and Maturity
 ### Architectural fit
 ### Availability of skills
