@@ -5,8 +5,9 @@
 - Capabilities of a Technology
 	- One technology solution covering all/most requirements
 		➕ Only one technology and one supplier
-		➖ More complex technology
-		
+		➖ 
+		- More complex technology
+		-  
 - Stability and Maturity
 - Architectural fit
 - Availability of skills
