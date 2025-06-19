@@ -11,7 +11,8 @@
 
 ### Attributes of Aging software 
 - Functional obsolescence
-	- Apps may become functionally obsolete if a business changes dramatically o
+	- Apps may become functionally obsolete if a business changes dramatically or a company discontinues a business or service
+	- 
 - Technical debt
 - Architectural obsolescence
 	- Evolution in business and tech makes chosen arch obsolete
