@@ -10,25 +10,7 @@ tags:
 |  **Lack of skills**   | - Encourage and support staff to build skills in areas of strategic importance<br>- Hire talent in relevant fields and<br>    - let them learn about company and industry through "career starter"<br>	   programs, stages, and conferences<br>	- give them room to stay up-to-date on developments in their field<br>	- let them explore innovation opportunities, coaching them to make it<br>	   relevant                            |
 ## [[Make or Buy Decision]]
 
-## Antitrust
-### Essential Facilities Doctrine
-If you own a "facility essential to other competitors" you are required to provide reasonable use of that facility. The basic element of a legal claim are:
-1. control of the essential facility by a monopolist
-2. a competitor's inability to practically or reasonable duplicate the essential facility
-3. the denial of the use of the facility to a competitor
-4. the feasibility of providing the facility to competitors
-
-> You are allowed to build a monopoly and maintain it, but you are not allowed to use it hindering competition in connected markets
-
-### Lawsuits
-- Apple vs. Epic Games
-- Google vs. EU
-- Intel vs. EU
-### Almost Monopolists
-often happy to support small competitors
-- Microsoft supporting Apple in the 1990's
-- Google supporting Mozilla
-- HP not charging compatible toner and ink manufacturers for patent infringement
+## [[Antitrust]]
 
 ---
 ### #Questions 
