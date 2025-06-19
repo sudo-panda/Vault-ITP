@@ -21,6 +21,7 @@
 	- New internal decision for each project which technology solution to use
 - Very complex trade-offs
 	- High uncertainty about evolution of requirements and technology solutions
+	- Technology solutions often impact 
 ### Stability and Maturity
 ### Architectural fit
 ### Availability of skills
