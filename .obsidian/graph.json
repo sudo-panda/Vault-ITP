@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#Risks_and_Strategic_Flexibility  ",
@@ -27,9 +27,30 @@
         "a": 1,
         "rgb": 10729215
       }
+    },
+    {
+      "query": "tag:#Software_Metric_and_IT_Complexity",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#Technology_Selection",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#Technology_Lifecycle  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -39,6 +60,6 @@
   "repelStrength": 8.71419270833333,
   "linkStrength": 0.615478515625,
   "linkDistance": 30,
-  "scale": 1.4819850915346306,
+  "scale": 1.3417572208520574,
   "close": false
 }
