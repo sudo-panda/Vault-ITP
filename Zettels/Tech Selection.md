@@ -22,8 +22,10 @@
 
 ### Ubiquitous self-reinforcing cycle of adoption
 - More users $\mapsto$ More references $\mapsto$ Higher market share, press coverage, brand recognition $\mapsto$ More users..
-- **Secondary Self - Reinforcing cycle:**
+- **Secondary Self - Reinforcing cycle of product growth:**
   More users $\mapsto$ More requirements $\mapsto$ More functionalities $\mapsto$ Growth into further areas of use $\mapsto$ More users
+- **Secondary Self - Reinforcing cycle of Platform growth:**
+  More users $\mapsto$ Attractive as a platform to develop for . . . $\mapsto$ . . . many available skilled resources,  many available products $\mapsto$ More users
 ## Architectural fit
 
 ## Availability of skills
