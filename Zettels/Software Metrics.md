@@ -1,1 +1,2 @@
-as application size increases the Person Months required increwases super linearly
+- As application size increases the Person Months required increwases super linearly
+- As system size 
