@@ -49,4 +49,4 @@
 ### Future trouble
 - Suppliers changing their business model from software provider to service providers
 - Customers being sued by 3rd party patent holders
-	- Nokia suing Daimler for violation of Nokia patents in networking components from non Daimler supp
+	- Nokia suing Daimler for violation of Nokia patents in networking components from non Daimler suppliers used in Da
