@@ -46,3 +46,5 @@
 - Leveraging the company brand for overselling
 - Using the brand of a successful product to sell another product
 
+### Future trouble
+- Suppliers changing their 
