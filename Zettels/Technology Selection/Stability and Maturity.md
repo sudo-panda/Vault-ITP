@@ -28,4 +28,4 @@
 
 ### Corollaries
 - In every tech field there is a strong drive towards an oligopoly
-- Do
+- Dominating products tend to be technically outdated
