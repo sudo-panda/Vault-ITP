@@ -3,3 +3,4 @@
 ### [[Function Point Analysis]]
 
 ## Lines Of Code
+- Perceived productivity decreases with power 
