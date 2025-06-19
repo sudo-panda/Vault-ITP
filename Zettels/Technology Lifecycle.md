@@ -64,4 +64,5 @@
 		- cannot be evaluated well (not binary success or failure)
 		- fits well into maintenance activities for the app
 - Software mimicry
+	- Use AI and large number of observations
 
