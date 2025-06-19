@@ -44,9 +44,12 @@
 		- Project abortions often leave company in a worse situation than before the project
 - Replace with package
 	- projects have different sizes, depending on the amount of functionality covered
-	- project success rate is high, even though there are a number of high-profile failures, in particular in cases where the supplier could not deliverfunctionality the customer considered important
+	- project success rate is high, even though there are a number of high-profile failures, in particular in cases where the supplier could not deliver functionality the customer considered important
 	- satisfaction after migration varies a lot, with reported weaknesses including
-		- 
+		- functionalities do not support the business as well as the former solution
+		- high efforts for surrounding systems which close gaps of the package or integrate with it
+		- ability to obtain new functionalities low
+		- package suffering from legacy issues too
 - Replatform
 	- projects are narrowly defined to address technical obsolence
 	- moving the application onto a different tech platform leaving functionality, architecture and tech debt as is
@@ -54,5 +57,11 @@
 	- <mark style="background: #88FF88DD;">success rate high</mark>
 	- <mark style="background: #FF5582DD;">lil benefit to business</mark>
 - Refactor
+	- Gradually addressing legacy issues in an app, leaving app in place, and changing or rewriting parts over time
+	- With it being an ongoing activity with small steps it
+		- has low risk
+		- no radical changes in app
+		- cannot be evaluated well (not binary success or failure)
+		- fits well into maintenance activities for the app
 - Software mimicry
 
