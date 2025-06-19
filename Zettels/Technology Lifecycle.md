@@ -37,8 +37,8 @@
 - Rewrite
 	- Typically large scale programs with a high rate of failure
 	- Experienced challenges
-		- Long duration with nothing to show (big bang) or lil true benefit until the end erode momentum on business and subsequently IT side
-		- High complexity
+		- **Long duration** with nothing to show (big bang) or lil true benefit until the end erode momentum on business and subsequently IT side
+		- **High complexity**
 		- Lack of detailed business logic understanding
 		- Need to invest into two systems
 		- Project abortions often leave company in a worse situation than before the project
