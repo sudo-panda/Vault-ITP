@@ -8,3 +8,5 @@
 - Emulation can add a significant number of years to the use of an obsolete technology
 - Obsolescence is generally a weak reason to quickly replace systems relying on it, but often used as an argument
 - Making good technology decisions in light of lifecycle considerations is very challenging
+
+Attributes of Aging software 
