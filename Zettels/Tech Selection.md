@@ -6,10 +6,6 @@
 
 ## [[Stability and Maturity]]
 
-
 ## Architectural fit
-
-
 ## Availability of skills
 ## Attractiveness/"sexiness" of technology
-
