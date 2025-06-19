@@ -23,3 +23,11 @@
 	- New apps are generally developed using tech then considered mature
 	- My the time the app is mature the underlying tech is already in decline
 	- Apps tend to have longer lifecycles than many techs
+
+## Legacy Software
+- Functionally fit-for-purpose
+- Has a some combination of:
+	- Tech debt
+	- Tech o
+
+Approaches to address legacy software 
