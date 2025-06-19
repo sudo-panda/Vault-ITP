@@ -21,4 +21,6 @@ Different Archs for different design aspects
 	- Enable independent design, implementation, and test of individual modules by different teams
 	- Increase flexibility/agility by new requirements only impacting one or few modules
 - A good modularization minimizes dependencies between modules, and provides narrow, stable interfaces
-- Designing it requires a profound understanding of business functionality
+- Designing it requires a profound understanding of business functionality and dependencies and great foresight about potential future requirements
+- A shift in business needs can turn a good modularization into a bad one
+
