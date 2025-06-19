@@ -20,6 +20,10 @@ If you own a "facility essential to other competitors" you are required to provi
 
 > You are allowed to build a monopoly and maintain it, but you are not allowed to use it hindering competition in connected markets
 
+### Lawsuits
+- Apple vs. Epic Games
+- Google vs. EU
+- Intel vs. EU
 ### Almost Monopolists
 often happy to support small competitors
 - Microsoft supporting Apple in the 1990's
