@@ -32,4 +32,6 @@
 	- Architectural obsolescence
 	- Partial functional obsolescence
 
-Approaches to address legacy software 
+### Approaches to address legacy software 
+- Do not touch
+- Rewrite
