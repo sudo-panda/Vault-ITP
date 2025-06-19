@@ -12,3 +12,9 @@
 
 
 ## CASE STUDY: Open-source software
+### Types
+- Hobbyist
+	- Enthusiasts developing software in free time as hobby and releasing it to the public
+	- Maintenance and support dependent on motivation of contributors
+- Academic
+	- 
