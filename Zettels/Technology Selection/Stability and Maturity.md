@@ -30,14 +30,18 @@
 - In every tech field there is a strong drive towards an oligopoly
 - Dominating products tend to be technically outdated
 - Being successful with a new IT product:
-	- Minimal viable Product
+	- **Minimal viable Product**
 		- Great use case
 		- Strong technical capabilities
 		- Room for experimentation
 		- Quick feedback cycle with users
-	- First references / lighthouse projects
+	- **First references / lighthouse projects**
 		- Access to early adopters
-	- Rapid 
+	- **Rapid scale-up**
+		- Large amount of capital
+		- Ability to very quickly scale organization
+	- **Growth into neighboring fields**
+
 
 ### Tricking the system
 - Leveraging the company brand for overselling
