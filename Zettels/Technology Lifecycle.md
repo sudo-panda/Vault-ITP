@@ -66,3 +66,12 @@
 - Software mimicry
 	- Use AI and large number of observations
 
+## Selecting Apps for Renewal
+### Analyze the legacy situation
+Understand for each attribute
+- Does the application have it
+- How big is it
+- How large are risks if unresolved
+- How much business value could be unlocked if resolved
+
+
