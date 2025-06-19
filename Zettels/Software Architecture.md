@@ -10,4 +10,7 @@ Different Archs for different design aspects
 - Application Arch
 - Infrastructure Arch
 - Software Layer Arch
-- Data Arch
+- Data Arch . . .
+
+
+
