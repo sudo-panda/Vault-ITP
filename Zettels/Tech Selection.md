@@ -17,4 +17,6 @@
 	- Enthusiasts developing software in free time as hobby and releasing it to the public
 	- Maintenance and support dependent on motivation of contributors
 - Academic
-	- 
+	- Software developed as part of academic research released to public
+	- Maintenance and support dependent on software being adapted by other researchers and/or industry
+- 
