@@ -9,4 +9,6 @@
 - Obsolescence is generally a weak reason to quickly replace systems relying on it, but often used as an argument
 - Making good technology decisions in light of lifecycle considerations is very challenging
 
-Attributes of Aging software 
+### Attributes of Aging software 
+- Functional obsolescence
+- Techi
