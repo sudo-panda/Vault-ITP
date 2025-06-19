@@ -1,3 +1,7 @@
+---
+tags:
+  - Risks_and_Strategic_Flexibility
+---
 ### Things only Google can do
 - Google Trends
 - Analytics

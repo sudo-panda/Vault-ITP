@@ -1,3 +1,7 @@
+---
+tags:
+  - Risks_and_Strategic_Flexibility
+---
 ### Things only Meta can do
 - Who interacts with whom?
 - Which topics trigger discussions?
