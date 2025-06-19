@@ -1,5 +1,6 @@
 ### Considerations in IT for Tech Selection
 - New developments in IT
+	- Huge set of different technologies vendors products in just 
 - Capabilities of a Technology
 - Stability and Maturity
 - Architectural fit
