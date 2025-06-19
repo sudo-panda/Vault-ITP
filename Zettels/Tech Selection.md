@@ -14,7 +14,10 @@
 - Different, specific technology solutions for each set of requirements
 	⊕
 	- Close fit with each individual set of requirements possible
-	- Each technology solution likely simpler and more 
+	- Each technology solution likely simpler and more flexible
+	- Less dependence on single supplier
+	⊖
+	- M
 ### Stability and Maturity
 ### Architectural fit
 ### Availability of skills
