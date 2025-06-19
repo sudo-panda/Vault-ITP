@@ -22,5 +22,18 @@ Decomposition system into five functional classes:
 
 For element it complexity is estimated, assigning it a number of function points and summing it all up to get the total.
 
-
+### Sample System and Project Sizes
+- **Very Small Systems** - 100 FP
+	- Built by single person or small team within a few months
+	- Cost ~100k CHF
+- **Small Systems** - 1000 FP
+	- Built by team of 5-10 staff within 1-2 years
+	- Cost ~3m CHF
+- **Typical major systems in large corporations** - 10000 FP
+	- Built by large teams over 3-5 years, often extended over many years
+	- Cost ~50m CHF
+- Largest systems in existence - 100000 FP
+	- Very few examples
+	- Built by very large teams over many years in several major releases
+	- Cost one billion or more CHF
 
