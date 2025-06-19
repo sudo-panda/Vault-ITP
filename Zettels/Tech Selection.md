@@ -17,7 +17,8 @@
 	- Each technology solution likely simpler and more flexible
 	- Less dependence on single supplier
 	⊖
-	- M
+	- Multiple technologies and multiple suppliers
+	- New internal decision for each project which technology solution
 ### Stability and Maturity
 ### Architectural fit
 ### Availability of skills
