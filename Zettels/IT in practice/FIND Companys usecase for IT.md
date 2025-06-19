@@ -1,3 +1,7 @@
+---
+tags:
+  - IT_in_practice
+---
 ### External Sources:
 - [[HOWTO Read Annual Reports|Annual report of the company]]
 - Interview with company representatives
