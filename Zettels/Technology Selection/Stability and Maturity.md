@@ -27,4 +27,5 @@
 	- Gartner Magic Quadrant
 
 ### Corollaries
-- In every tech field there is a strong 
+- In every tech field there is a strong drive towards an oligopoly
+- Do
