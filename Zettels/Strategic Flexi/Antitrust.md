@@ -2,7 +2,6 @@
 tags:
   - Risks_and_Strategic_Flexibility
 ---
-## Antitrust
 ### Essential Facilities Doctrine
 If you own a "facility essential to other competitors" you are required to provide reasonable use of that facility. The basic element of a legal claim are:
 1. control of the essential facility by a monopolist
