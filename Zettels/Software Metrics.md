@@ -19,3 +19,5 @@ Decomposition system into five functional classes:
 3. Internal logical files (ILF), i.e., system states
 4. Inquires (EQ), e.g., a query to a database
 5. External interface files (EIF), e.g., a database
+
+For element it complexity is estimated, assigning it a number of function points. 
