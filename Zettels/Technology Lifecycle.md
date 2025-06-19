@@ -80,9 +80,9 @@ Understand for each attribute
 - Select an approach that addresses the actual issues and unlocks business value or risk avoidance
 ### Examples
 - Application running on obsolete technical platform, with little other legacy issues: REPLATFORM
-- Application with strong business functionality, but architectural issues and
-
-technical debt preventing it to be extended further, such as for
-merging acquired business into the application
-leveraging the application in other geographies
-implementing new business offerings
+- Application with strong business functionality, but architectural issues and technical debt preventing it to be extended further, such as for
+	- merging acquired business into the application
+	- leveraging the application in other geographies
+	- implementing new business offerings
+	LARGE REFACTORING INITIATIVE (focus: business needs)
+- Application with outdated functionality, which is non-differentiating: REPLACE w/ PACKAGE
