@@ -29,7 +29,15 @@
 ### Corollaries
 - In every tech field there is a strong drive towards an oligopoly
 - Dominating products tend to be technically outdated
-- Being successful with a new IT product
+- Being successful with a new IT product:
+	- Minimal viable Product
+		- Great use case
+		- Strong technical capabilities
+		- Room for experimentation
+		- Quick feedback cycle with users
+	- First references / lighthouse projects
+		- Access to early adopters
+	- Rapid 
 
 ### Tricking the system
 - Leveraging the company brand for overselling
