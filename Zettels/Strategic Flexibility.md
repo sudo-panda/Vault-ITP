@@ -14,3 +14,6 @@ tags:
 | Capability is a source of competitive advantage                                                                              | Capability is a commodity for the business                  |
 | System is tightly integrated with other internal systems<br>- Integration efforts<br>- Influences further make/buy decisions | There is one or multiple strong solutions in the market     |
 | There is no strong solution in the market                                                                                    | The needed integration with other systems is relatively low |
+#### Recently Emerging Factors
+##### Strategy of Some Suppliers
+Leverage market position to grow into other businesses
