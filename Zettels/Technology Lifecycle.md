@@ -12,4 +12,5 @@
 ### Attributes of Aging software 
 - Functional obsolescence
 - Technical debt
-- Architectural obsolen
+- Architectural obsolescence
+- Technical obsolescence
