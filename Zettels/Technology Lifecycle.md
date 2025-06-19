@@ -43,7 +43,8 @@
 		- Need to invest into two systems
 		- Project abortions often leave company in a worse situation than before the project
 - Replace with package
-	- projects have different sizes, depending on the amount of functiona
+	- projects have different sizes, depending on the amount of functionality covered
+	- 
 - Replatform
 	- projects are narrowly defined to address technical obsolence
 	- moving the application onto a different tech platform leaving functionality, architecture and tech debt as is
