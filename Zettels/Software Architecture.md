@@ -16,6 +16,9 @@ Different Archs for different design aspects
 
 ## Modularization
 - The degree to which a system's components may be separated and recombined, often with the benefit of flexibility and variety in use.
+- 
 - In software design, typical modularization objectives are:
 	- Enable independent design, implementation, and test of individual modules by different teams
 	- Increase flexibility/agility by new requirements only impacting one or few modules
+- A good modularization minimizes dependencies between modules, and provides narrow, stable interfaces
+- Designing it requires a profound understanding of business functionality
