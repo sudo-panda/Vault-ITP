@@ -24,10 +24,10 @@
 	- Technology solutions often impact other technology areas
 
 ##### IT managers vs. IT Staff
-| IT Management                                                                                                     | IT Staff                                 |
-| ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| One technology solution                                                                                           | Different, specific technology solutions |
-| ⊕ Less solutions and suppliers to manage<br>⊕ Simpler decision making internally and enforcement once established |                                          |
+| IT Management                                                                                                     | IT Staff                                        |
+| ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| One technology solution                                                                                           | Different, specific technology solutions        |
+| ⊕ Less solutions and suppliers to manage<br>⊕ Simpler decision making internally and enforcement once established | ⊕ Solution more tailored to problem at hand<br> |
 
 ### Stability and Maturity
 ### Architectural fit
