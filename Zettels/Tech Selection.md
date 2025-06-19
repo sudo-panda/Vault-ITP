@@ -40,3 +40,4 @@
 
 
 - Given that you cannot change your mind once you have open-sourced your software, which options do you have to create a business from it?
+
