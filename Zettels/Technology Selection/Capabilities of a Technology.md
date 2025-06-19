@@ -1,3 +1,7 @@
+---
+tags:
+  - Technology_Selection
+---
 - **One technology solution covering all/most requirements**
 	⊕ 
 	- Only one technology and one supplier
