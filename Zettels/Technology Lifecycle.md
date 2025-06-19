@@ -44,7 +44,9 @@
 		- Project abortions often leave company in a worse situation than before the project
 - Replace with package
 	- projects have different sizes, depending on the amount of functionality covered
-	- 
+	- project success rate is high, even though there are a number of high-profile failures, in particular in cases where the supplier could not deliverfunctionality the customer considered important
+	- satisfaction after migration varies a lot, with reported weaknesses including
+		- 
 - Replatform
 	- projects are narrowly defined to address technical obsolence
 	- moving the application onto a different tech platform leaving functionality, architecture and tech debt as is
