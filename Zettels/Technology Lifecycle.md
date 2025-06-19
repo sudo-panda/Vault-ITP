@@ -37,4 +37,5 @@
 - Rewrite
 - Replace with package
 - Replatform
-- 
+- Refactor
+- Software mimicry
