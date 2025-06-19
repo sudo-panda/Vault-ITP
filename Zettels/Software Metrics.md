@@ -11,3 +11,5 @@
 	- Variability: FPA can be employed for all kinds of software
 	- Completeness: FPA measures all activities, not only coding
 	- . . . and it allows for statistical analysis
+
+### Calculation
