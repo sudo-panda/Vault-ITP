@@ -29,5 +29,6 @@
 	- Real-time processing of events or data streams
 	- Real-time processing
 - Actor model
-	- Natural concurrency model, where a component receives data or an event, processes it and passes the result ot other actors
-	- Stronf 
+	- Natural concurrency model, where a component receives data or an event, processes it and passes the result to other actors
+	- Strong fit with microservices, event-sourcing and reactive.stream proessing
+
