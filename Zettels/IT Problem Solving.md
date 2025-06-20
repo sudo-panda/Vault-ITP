@@ -1,5 +1,6 @@
 ---
 tags:
+  - IT_Problem_Solving
 ---
 ### Getting a Good Decision
 - Assignment
