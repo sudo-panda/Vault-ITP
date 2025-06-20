@@ -29,4 +29,4 @@
 	- Real-time processing of events or data streams
 	- Real-time processing
 - Actor model
-	- Natural concurrency model, where a component receives data or an event, processes i
+	- Natural concurrency model, where a component receives data or an event, processes it and pasees
