@@ -1,3 +1,6 @@
+---
+tags:
+---
 ### Getting a Good Decision
 - Assignment
 - Understanding of the field
