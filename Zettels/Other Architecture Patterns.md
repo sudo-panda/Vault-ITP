@@ -24,3 +24,5 @@
 	- Concept of domain-driven design/microservices applied to data
 - Space-based Arch
 	- Aims for high scalability through in-memory data grids and distributed processing
+	- Impact:?
+- 
