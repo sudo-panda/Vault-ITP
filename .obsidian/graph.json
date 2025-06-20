@@ -8,7 +8,7 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#Risks_and_Strategic_Flexibility  ",
+      "query": "tag:#Architecture_and_Architecture_Patterns  ",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -22,21 +22,21 @@
       }
     },
     {
-      "query": "path:\"Zettels/Frameworks n Tools\"  ",
+      "query": "tag:#IT_in_practice  ",
       "color": {
         "a": 1,
-        "rgb": 10729215
+        "rgb": 11657298
       }
     },
     {
-      "query": "tag:#Software_Metric_and_IT_Complexity",
+      "query": "tag:#Risks_and_Strategic_Flexibility  ",
       "color": {
         "a": 1,
         "rgb": 5431378
       }
     },
     {
-      "query": "tag:#Technology_Selection",
+      "query": "tag:#Software_Metric_and_IT_Complexity  ",
       "color": {
         "a": 1,
         "rgb": 5431473
@@ -50,14 +50,14 @@
       }
     },
     {
-      "query": "tag:#IT_in_practice ",
+      "query": "tag:#Technology_Selection  ",
       "color": {
         "a": 1,
         "rgb": 5395168
       }
     },
     {
-      "query": "tag:#Architecture_and_Architecture_Patterns  ",
+      "query": "path:\"Zettels/Frameworks n Tools\"  ",
       "color": {
         "a": 1,
         "rgb": 11621088
@@ -65,15 +65,15 @@
     }
   ],
   "collapse-display": true,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.440348307291667,
-  "repelStrength": 8.71419270833333,
-  "linkStrength": 0.615478515625,
-  "linkDistance": 30,
-  "scale": 1.159246569286807,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.343657087079024,
   "close": false
 }
