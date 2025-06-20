@@ -1,3 +1,7 @@
+---
+tags:
+  - Architecture_and_Architecture_Patterns
+---
 - Service Mesh
 	- Infrastructure layer handling service-to-service comms and corresponding config
 	- Part of cloud native arch
@@ -31,4 +35,9 @@
 - Actor model
 	- Natural concurrency model, where a component receives data or an event, processes it and passes the result to other actors
 	- Strong fit with microservices, event-sourcing and reactive.stream proessing
-
+### Event sourcing & Command Query Responsibility Separation
+- Full audit trail, never deleting events
+- Timeshift functionality
+- Different data representations for different uses
+- Requires good caching in projectors to offer good performance
+- 
