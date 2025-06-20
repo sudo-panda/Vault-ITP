@@ -46,3 +46,4 @@ tags:
 
 ### Distributed Ledger Technology/Blockchain
 - Fundamentally a distributed event-sourcing architecture with automatic replication and distributed consensus algorithms
+- Can be tuned for different needs
