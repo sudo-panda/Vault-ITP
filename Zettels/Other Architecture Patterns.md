@@ -20,4 +20,4 @@
 	- Separating core business logic from external concerns
 	- Makes external concerns independent from core business logic
 - Data Mesh
-	- Breaking down data
+	- Breaking down data into data products managed by different teams with federated gover
