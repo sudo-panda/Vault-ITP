@@ -1,2 +1,5 @@
 - Service Mesh
-	- Infra 
+	- Infrastructure layer handling service-to-service comms and corresponding config
+	- Part of cloud native arch
+- Backend for frontend
+	- Services providing Frontend-specific APIs, e.g. lil data for mobile device use or rich analytics data for feature-rich front-ends
