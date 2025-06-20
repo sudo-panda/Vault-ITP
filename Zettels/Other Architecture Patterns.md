@@ -11,5 +11,5 @@
 	- Enabling to run a time-restricted function without explicitly allocating a server, reacting to events
 	- Saving on cloud infrastructure for rarely running functions
 - Event sourcing
-	- Storing all data as events, never deleting data and providing "projrctions" of the actual state of data
-	- 
+	- Storing all data as events, never deleting data and providing "projections" of the actual state of data
+- Command Query Responsi
