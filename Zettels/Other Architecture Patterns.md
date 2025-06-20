@@ -7,4 +7,9 @@
 - Micro-frontends
 	- Applying microservices concepts to front-ends
 	- More independent development
+- Serverless & Function as a Service
+	- Enabling to run a time-restricted function without explicitly allocating a server, reacting to events
+	- Saving on cloud infrastructure for rarely running functions
+- Event sourcing
+	- Storing all data as events, never deleting data and providing "projrctions" of the actual state of data
 	- 
