@@ -25,4 +25,6 @@
 - Space-based Arch
 	- Aims for high scalability through in-memory data grids and distributed processing
 	- Impact:?
-- 
+- Reactive/stream processing
+	- Real-time processing of events or data streams
+	- Real-time
