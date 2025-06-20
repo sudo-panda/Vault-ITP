@@ -43,7 +43,9 @@ tags:
 - Extremely robust data storage
 - Very good support for rollback
 - Potentially simplifies data privacy compliance or complicates it
-
 ### Distributed Ledger Technology/Blockchain
 - Fundamentally a distributed event-sourcing architecture with automatic replication and distributed consensus algorithms
-- Can be tuned for different needs
+- Can be tuned for different needs, eg. for very high throughput transaction processing or many replicas
+- Consensus algorithms can be designed to use voting rather than trust, enabling transactions between untrusted parties
+
+## Use of AI Capbilities in Apps
