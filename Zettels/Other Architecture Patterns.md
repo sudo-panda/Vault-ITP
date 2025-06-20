@@ -45,3 +45,4 @@ tags:
 - Potentially simplifies data privacy compliance or complicates it
 
 ### Distributed Ledger Technology/Blockchain
+- Fundamentally a distributed event-sourcing architecture with automatic replication and distributed consensus algorithms
