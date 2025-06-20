@@ -12,4 +12,12 @@
 	- Saving on cloud infrastructure for rarely running functions
 - Event sourcing
 	- Storing all data as events, never deleting data and providing "projections" of the actual state of data
-- Command Query Responsi
+- Command Query Responsibility Separation (CQRS)
+	- Add-on to Event Sourcing, letting different components handle change/commands and queries providing projections
+- Distributed ledger Technology/Blockchain
+	- Using event-sourcing, implementing automatic replication and distributed consensus with untrusted parties
+- Hexagonal/Ports & Adapter Arch
+	- Separating core business logic from external concerns
+	- Makes external concerns independent from core business logic
+- Data Mesh
+	- Breaking down data
