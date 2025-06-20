@@ -48,4 +48,4 @@ tags:
 - Can be tuned for different needs, eg. for very high throughput transaction processing or many replicas
 - Consensus algorithms can be designed to use voting rather than trust, enabling transactions between untrusted parties
 
-## Use of AI Capbilities in Apps
+## Use of AI Capabilities in Apps
