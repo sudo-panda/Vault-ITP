@@ -21,4 +21,5 @@
 	- Makes external concerns independent from core business logic
 - Data Mesh
 	- Breaking down data into data products managed by different teams with federated governance
-	- Concept of domain-driven desin
+	- Concept of domain-driven design/microservices applied to data
+- Space-based A
