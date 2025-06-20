@@ -5,4 +5,5 @@
 	- Services providing Frontend-specific APIs, e.g. lil data for mobile device use or rich analytics data for feature-rich front-ends
 	- Enables more efficient/ faster front ends
 - Micro-frontends
-	- 
+	- Applying microservices concepts to front-ends
+	- More independent development
