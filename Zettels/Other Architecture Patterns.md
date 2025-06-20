@@ -44,4 +44,4 @@ tags:
 - Very good support for rollback
 - Potentially simplifies data privacy compliance or complicates it
 
-### Distributed Ledger
+### Distributed Ledger Technology/Blockchain
