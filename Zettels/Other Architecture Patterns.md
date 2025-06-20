@@ -40,4 +40,6 @@ tags:
 - Timeshift functionality
 - Different data representations for different uses
 - Requires good caching in projectors to offer good performance
-- 
+- Extremely robust data storage
+- Very good support for rollback
+- Potentially simplifies data privacy compliance or complicates it
