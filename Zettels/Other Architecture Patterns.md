@@ -49,4 +49,4 @@ tags:
 - Consensus algorithms can be designed to use voting rather than trust, enabling transactions between untrusted parties
 
 ## Use of AI Capabilities in Apps
-
+- Novel UIs
