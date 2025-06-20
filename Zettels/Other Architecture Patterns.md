@@ -50,3 +50,5 @@ tags:
 
 ## Use of AI Capabilities in Apps
 - Novel UIs
+- New sensory capabilities/extraction of data from unstructured input
+- Application
