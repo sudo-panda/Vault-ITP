@@ -12,3 +12,11 @@ tags:
 | Function Call                                                 | HTTP API Call                                                                                                                                                                                                                                             |
 | ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Passing data in memory<br><br>Executing the business function | Putting data in network packet<br><br>Identifying network address of service<br><br>Sending data through network<br><br>Identifying which service to execute, unpacking data<br><br>Executing the business function<br><br>Same path back through network |
+
+### Alternatives for High Scalability and High Availability
+- Scalability
+	- Use a larger server
+	- Tune software for low resource needs and scalability
+- High Availability
+	- Use hardware and software designed for high availability and high availability
+	- Very expensive equipment, but may pay off in lower software complexity
