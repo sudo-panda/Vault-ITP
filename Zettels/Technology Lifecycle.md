@@ -64,8 +64,8 @@ tags:
 	- Gradually addressing legacy issues in an app, leaving app in place, and changing or rewriting parts over time
 	- With it being an ongoing activity with small steps it
 		- <mark style="background: #88FF88DD;">has low risk</mark>
-		- no radical changes in app
-		- cannot be evaluated well (not binary success or failure)
+		- <mark style="background: #88FF88DD;">no radical changes in app</mark>
+		- <mark style="background: #FFB86CA6;">cannot be evaluated well (not binary success or failure)</mark>
 		- fits well into maintenance activities for the app
 - Software mimicry
 	- Use AI and large number of observations
