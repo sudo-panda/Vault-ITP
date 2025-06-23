@@ -1,6 +1,5 @@
 ---
-tags:
-  - Risks_and_Strategic_Flexibility
+tags: []
 ---
 - Attacks and incidents will happen, you can only prepare for them
 - Reduce the attack surface, especially challenge convenience
