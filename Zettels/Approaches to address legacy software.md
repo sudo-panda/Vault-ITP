@@ -1,3 +1,7 @@
+---
+tags:
+  - Technology_Lifecycle
+---
 ### Approaches to address legacy software 
 - Do not touch
 - Rewrite
