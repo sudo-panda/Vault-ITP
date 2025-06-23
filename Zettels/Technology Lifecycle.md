@@ -66,7 +66,7 @@ tags:
 		- <mark style="background: #88FF88DD;">has low risk</mark>
 		- <mark style="background: #88FF88DD;">no radical changes in app</mark>
 		- <mark style="background: #FFB86CA6;">cannot be evaluated well (not binary success or failure)</mark>
-		- fits well into maintenance activities for the app
+		- <mark style="background: #88FF88DD;">fits well into maintenance activities for the app</mark>
 - Software mimicry
 	- Use AI and large number of observations
 
