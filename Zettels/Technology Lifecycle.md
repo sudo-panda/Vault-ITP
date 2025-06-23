@@ -63,7 +63,7 @@ tags:
 - Refactor
 	- Gradually addressing legacy issues in an app, leaving app in place, and changing or rewriting parts over time
 	- With it being an ongoing activity with small steps it
-		- has low risk
+		- <mark style="background: #88FF88DD;">has low risk</mark>
 		- no radical changes in app
 		- cannot be evaluated well (not binary success or failure)
 		- fits well into maintenance activities for the app
