@@ -18,6 +18,10 @@ tags:
 - Ransom.  
 - Collateral damage of unfocused attack.
 
+## Case Studies
+- [[Google]]
+- [[Meta]]
+
 ---
 ### #Questions
 
