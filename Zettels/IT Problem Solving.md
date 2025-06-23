@@ -17,7 +17,7 @@ tags:
 
 ### Problem Structuring
 - I do not know anything about this:
-	- Ensure <mark style="background: #FADF63EE;">MECERE</mark>-ness
+	- Ensure <mark style="background: #FADF63EE;">MECERE</mark>-ness (Mutually Exclusive, Cumulatively Exhaustive, Relevant)
 	- Disaggregate the problem into "issues"
 	- Find a structure covering all aspects of the problem
 - I believe I know the answer, but I need to make sure it is right."
