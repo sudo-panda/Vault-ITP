@@ -1,6 +1,5 @@
 ---
-tags:
-  - Risks_and_Strategic_Flexibility
+tags: []
 ---
 ### Business Operational Risks
 - The impact of problems with software can be very large

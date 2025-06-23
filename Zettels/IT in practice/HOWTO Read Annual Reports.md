@@ -1,6 +1,5 @@
 ---
-tags:
-  - IT_in_practice
+tags: []
 ---
 ## Why do companies release annual reports
 - Investors require it to keep investing

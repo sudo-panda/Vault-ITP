@@ -1,6 +1,5 @@
 ---
-tags:
-  - Risks_and_Strategic_Flexibility
+tags: []
 ---
 ## AI Project Risks
 - Quality of the output may be insufficient for the business purpose

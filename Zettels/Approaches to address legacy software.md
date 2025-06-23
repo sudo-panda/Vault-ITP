@@ -1,6 +1,5 @@
 ---
-tags:
-  - Technology_Lifecycle
+tags: []
 ---
 ### Approaches to address legacy software 
 - Do not touch

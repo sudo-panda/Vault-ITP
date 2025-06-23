@@ -1,6 +1,5 @@
 ---
-tags:
-  - Technology_Lifecycle
+tags: []
 ---
 
 - Functionally fit-for-purpose

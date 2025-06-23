@@ -1,6 +1,5 @@
 ---
-tags:
-  - Risks_and_Strategic_Flexibility
+tags: []
 ---
 ### Make or Buy Decision
 | Make                                                                                                                         | Buy                                                         |

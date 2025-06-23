@@ -1,6 +1,5 @@
 ---
-tags:
-  - Technology_Lifecycle
+tags: []
 ---
 ### Attributes of Aging software 
 - Functional obsolescence

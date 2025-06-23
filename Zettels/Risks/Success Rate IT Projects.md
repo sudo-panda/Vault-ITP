@@ -1,6 +1,5 @@
 ---
-tags:
-  - Risks_and_Strategic_Flexibility
+tags: []
 ---
 ### Out of 500 Projects
 
