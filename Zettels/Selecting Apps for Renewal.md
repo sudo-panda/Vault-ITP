@@ -1,3 +1,7 @@
+---
+tags:
+  - Technology_Lifecycle
+---
 ## Selecting Apps for Renewal
 ### Analyze the legacy situation
 Understand for each attribute

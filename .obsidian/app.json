@@ -8,5 +8,5 @@
   "alwaysUpdateLinks": true,
   "readableLineLength": true,
   "defaultViewMode": "source",
-  "propertiesInDocument": "hidden"
+  "propertiesInDocument": "visible"
 }

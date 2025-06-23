@@ -1,3 +1,7 @@
+---
+tags:
+  - Technology_Lifecycle
+---
 ## Legacy Software
 - Functionally fit-for-purpose
 - Has a some combination of:
