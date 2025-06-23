@@ -17,4 +17,3 @@ tags:
 
 ## [[Legacy Software]]
 
-## [[Selecting Apps for Renewal]]

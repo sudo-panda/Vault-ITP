@@ -1,0 +1,33 @@
+### Approaches to address legacy software 
+- Do not touch
+- Rewrite
+	- Typically large scale programs with a high rate of failure
+	- Experienced challenges
+		- **Long duration** with nothing to show (big bang) or lil true benefit until the end erode momentum on business and subsequently IT side (step-wise)
+		- **High complexity**
+		- Lack of detailed business logic understanding
+		- Need to invest into two systems
+		- Project abortions often leave company in a worse situation than before the project
+- Replace with package
+	- projects have different sizes, depending on the amount of functionality covered
+	- project success rate is high, even though there are a number of high-profile failures, in particular in cases where the supplier could not deliver functionality the customer considered important
+	- satisfaction after migration varies a lot, with reported weaknesses including
+		- functionalities do not support the business as well as the former solution
+		- high efforts for surrounding systems which close gaps of the package or integrate with it
+		- ability to obtain new functionalities low
+		- package suffering from legacy issues too
+- Replatform
+	- projects are narrowly defined to address technical obsolence
+	- moving the application onto a different tech platform leaving functionality, architecture and tech debt as is
+	- static code translators are used if possible, ehich have a bad reputation of generating hard to maintain code
+	- <mark style="background: #88FF88DD;">success rate high</mark>
+	- <mark style="background: #FF5582DD;">lil benefit to business</mark>
+- Refactor
+	- Gradually addressing legacy issues in an app, leaving app in place, and changing or rewriting parts over time
+	- With it being an ongoing activity with small steps it
+		- <mark style="background: #88FF88DD;">has low risk</mark>
+		- <mark style="background: #88FF88DD;">no radical changes in app</mark>
+		- <mark style="background: #FFB86CA6;">cannot be evaluated well (not binary success or failure)</mark>
+		- <mark style="background: #88FF88DD;">fits well into maintenance activities for the app</mark>
+- Software mimicry
+	- Use AI and large number of observations
