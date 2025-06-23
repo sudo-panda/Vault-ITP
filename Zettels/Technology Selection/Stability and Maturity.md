@@ -12,7 +12,7 @@ tags:
 | Supplier | Supplier is unable to make improvements or to make them in time                  | Use of product becomes delayed, or not possible at all                                                                                                                    |
 |          | Supplier does not have the financial strength to continue developing the product | Continued use of the product may be compromised                                                                                                                           |
 |          | Supplier will be acquired and the product discontinued                           | Forced migration to another product                                                                                                                                       |
-### Proxies to Assess
+### Proxies to Assess Stability and Maturity of Software
 - Brand Recognition
 - Market leadership / market share
 - IT Research company assessments
